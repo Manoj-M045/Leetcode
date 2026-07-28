@@ -20,4 +20,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [2469-convert-the-temperature](https://github.com/Manoj-M045/Leetcode/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
