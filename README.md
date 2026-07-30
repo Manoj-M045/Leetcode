@@ -12,6 +12,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manoj-M045/Leetcode/tree/master/0001-two-sum) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -24,4 +25,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2469-convert-the-temperature](https://github.com/Manoj-M045/Leetcode/tree/master/2469-convert-the-temperature) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
