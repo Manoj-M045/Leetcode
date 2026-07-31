@@ -13,6 +13,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manoj-M045/Leetcode/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -30,6 +31,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -40,4 +42,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manoj-M045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
