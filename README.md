@@ -10,16 +10,19 @@ My Leetcode Solutions
 | [0011-container-with-most-water](https://github.com/Manoj-M045/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manoj-M045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manoj-M045/Leetcode/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
