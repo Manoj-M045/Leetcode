@@ -15,6 +15,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manoj-M045/Leetcode/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/Manoj-M045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
@@ -35,6 +36,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/Manoj-M045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -54,6 +56,7 @@ My Leetcode Solutions
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Manoj-M045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
