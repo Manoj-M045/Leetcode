@@ -35,6 +35,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2469-convert-the-temperature](https://github.com/Manoj-M045/Leetcode/tree/master/2469-convert-the-temperature) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Manoj-M045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -74,4 +75,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manoj-M045/Leetcode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Manoj-M045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
