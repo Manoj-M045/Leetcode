@@ -10,6 +10,7 @@ My Leetcode Solutions
 | [0011-container-with-most-water](https://github.com/Manoj-M045/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manoj-M045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Manoj-M045/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Manoj-M045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
@@ -18,6 +19,7 @@ My Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Manoj-M045/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Manoj-M045/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Manoj-M045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Manoj-M045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -27,6 +29,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manoj-M045/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Manoj-M045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
