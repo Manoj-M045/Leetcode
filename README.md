@@ -12,6 +12,7 @@ My Leetcode Solutions
 | [0169-majority-element](https://github.com/Manoj-M045/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manoj-M045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj-M045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -31,6 +32,7 @@ My Leetcode Solutions
 | [0169-majority-element](https://github.com/Manoj-M045/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manoj-M045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj-M045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
