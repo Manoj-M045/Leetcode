@@ -17,6 +17,7 @@ My Leetcode Solutions
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj-M045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Manoj-M045/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ My Leetcode Solutions
 | [0383-ransom-note](https://github.com/Manoj-M045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Manoj-M045/Leetcode/tree/master/0520-detect-capital) |
+| [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2129-capitalize-the-title](https://github.com/Manoj-M045/Leetcode/tree/master/2129-capitalize-the-title) |
 ## Two Pointers
