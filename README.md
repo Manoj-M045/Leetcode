@@ -59,6 +59,7 @@ My Leetcode Solutions
 | [0383-ransom-note](https://github.com/Manoj-M045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Manoj-M045/Leetcode/tree/master/0520-detect-capital) |
+| [0657-robot-return-to-origin](https://github.com/Manoj-M045/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2129-capitalize-the-title](https://github.com/Manoj-M045/Leetcode/tree/master/2129-capitalize-the-title) |
@@ -108,4 +109,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Manoj-M045/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Manoj-M045/Leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
