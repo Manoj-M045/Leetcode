@@ -15,6 +15,7 @@ My Leetcode Solutions
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Manoj-M045/Leetcode/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj-M045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Manoj-M045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Manoj-M045/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/Manoj-M045/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -40,6 +41,7 @@ My Leetcode Solutions
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Manoj-M045/Leetcode/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj-M045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Manoj-M045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -70,6 +72,7 @@ My Leetcode Solutions
 | [0088-merge-sorted-array](https://github.com/Manoj-M045/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manoj-M045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0905-sort-array-by-parity](https://github.com/Manoj-M045/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
