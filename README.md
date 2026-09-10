@@ -55,6 +55,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Manoj-M045/Leetcode/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/Manoj-M045/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manoj-M045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
@@ -130,4 +131,16 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Manoj-M045/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Manoj-M045/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Manoj-M045/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Manoj-M045/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
