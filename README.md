@@ -66,6 +66,7 @@ My Leetcode Solutions
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Manoj-M045/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Manoj-M045/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0925-long-pressed-name](https://github.com/Manoj-M045/Leetcode/tree/master/0925-long-pressed-name) |
 | [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2129-capitalize-the-title](https://github.com/Manoj-M045/Leetcode/tree/master/2129-capitalize-the-title) |
@@ -78,6 +79,7 @@ My Leetcode Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manoj-M045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Manoj-M045/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/Manoj-M045/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0925-long-pressed-name](https://github.com/Manoj-M045/Leetcode/tree/master/0925-long-pressed-name) |
 ## Binary Search
 |  |
 | ------- |
