@@ -29,6 +29,7 @@ My Leetcode Solutions
 | [0001-two-sum](https://github.com/Manoj-M045/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Manoj-M045/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manoj-M045/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Manoj-M045/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Manoj-M045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -41,6 +42,7 @@ My Leetcode Solutions
 | [0088-merge-sorted-array](https://github.com/Manoj-M045/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manoj-M045/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manoj-M045/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Manoj-M045/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Manoj-M045/Leetcode/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj-M045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -62,6 +64,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Manoj-M045/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Manoj-M045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Manoj-M045/Leetcode/tree/master/0520-detect-capital) |
