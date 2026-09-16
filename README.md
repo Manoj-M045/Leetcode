@@ -20,6 +20,7 @@ My Leetcode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/Manoj-M045/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Manoj-M045/Leetcode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj-M045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Manoj-M045/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Manoj-M045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Manoj-M045/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -100,6 +101,7 @@ My Leetcode Solutions
 | [0287-find-the-duplicate-number](https://github.com/Manoj-M045/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoj-M045/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Manoj-M045/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Manoj-M045/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Queue
 |  |
 | ------- |
@@ -160,4 +162,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Manoj-M045/Leetcode/tree/master/0509-fibonacci-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Manoj-M045/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
