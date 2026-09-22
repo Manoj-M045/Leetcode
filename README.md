@@ -178,5 +178,6 @@ My Leetcode Solutions
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Manoj-M045/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manoj-M045/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
