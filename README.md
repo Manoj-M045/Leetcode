@@ -84,6 +84,7 @@ My Leetcode Solutions
 | [0392-is-subsequence](https://github.com/Manoj-M045/Leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Manoj-M045/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Manoj-M045/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0680-valid-palindrome-ii](https://github.com/Manoj-M045/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/Manoj-M045/Leetcode/tree/master/0925-long-pressed-name) |
 | [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -98,6 +99,7 @@ My Leetcode Solutions
 | [0287-find-the-duplicate-number](https://github.com/Manoj-M045/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoj-M045/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Manoj-M045/Leetcode/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/Manoj-M045/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Manoj-M045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/Manoj-M045/Leetcode/tree/master/0925-long-pressed-name) |
 ## Binary Search
@@ -123,6 +125,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manoj-M045/Leetcode/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/Manoj-M045/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
