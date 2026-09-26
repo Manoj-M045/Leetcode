@@ -1,22 +1,24 @@
 class Solution:
     def isLongPressedName(self, name: str, typed: str) -> bool:
-        l=0
-        r=0
-        while(r<len(typed) and l<len(name)):
-            if(name[l]==typed[r]):
-                l=l+1
-                r=r+1
-            elif(r>0 and typed[r]==typed[r-1]):
-                r=r+1
+        ptr1=0
+        ptr2=0
+        if(len(typed)<=len(name)):
+            if(name!=typed):
+                return False       
+        while(ptr1<len(name)and ptr2<len(typed)):
+            if(name[ptr1]==typed[ptr2]):
+                ptr1+=1
+                ptr2+=1
             else:
-                return False
-        if(len(name)>len(typed)):
+                if(ptr2>0 and typed[ptr2]==typed[ptr2-1]):
+                    ptr2+=1
+                else:
+                    return False
+        if(ptr1<len(name)):
             return False
-        if(l<len(name)):
-            return False
-        while(r<len(typed)):
-            if(typed[r]!=typed[r-1]):
+        while(ptr2<len(typed)):
+            if(name[-1]!=typed[ptr2]):
                 return False
-            r=r+1
+            ptr2+=1
         return True
         
