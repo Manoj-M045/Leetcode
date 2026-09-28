@@ -215,9 +215,22 @@ My Leetcode Solutions
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manoj-M045/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/Manoj-M045/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Manoj-M045/Leetcode/tree/master/0881-boats-to-save-people) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manoj-M045/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manoj-M045/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manoj-M045/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
