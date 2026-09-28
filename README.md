@@ -89,6 +89,7 @@ My Leetcode Solutions
 | [0520-detect-capital](https://github.com/Manoj-M045/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Manoj-M045/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Manoj-M045/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Manoj-M045/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Manoj-M045/Leetcode/tree/master/0925-long-pressed-name) |
 | [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -105,6 +106,7 @@ My Leetcode Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoj-M045/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Manoj-M045/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Manoj-M045/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Manoj-M045/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Manoj-M045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/Manoj-M045/Leetcode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manoj-M045/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -159,6 +161,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Manoj-M045/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/Manoj-M045/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -205,4 +208,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Manoj-M045/Leetcode/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Manoj-M045/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
