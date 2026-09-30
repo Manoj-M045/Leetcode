@@ -28,6 +28,7 @@ My Leetcode Solutions
 | [0881-boats-to-save-people](https://github.com/Manoj-M045/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Manoj-M045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manoj-M045/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj-M045/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Manoj-M045/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/Manoj-M045/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -83,6 +84,7 @@ My Leetcode Solutions
 | [0507-perfect-number](https://github.com/Manoj-M045/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Manoj-M045/Leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manoj-M045/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj-M045/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2469-convert-the-temperature](https://github.com/Manoj-M045/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manoj-M045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
