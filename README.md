@@ -77,6 +77,7 @@ My Leetcode Solutions
 | ------- |
 | [0263-ugly-number](https://github.com/Manoj-M045/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Manoj-M045/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Manoj-M045/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Manoj-M045/Leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manoj-M045/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -124,6 +125,7 @@ My Leetcode Solutions
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manoj-M045/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoj-M045/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/Manoj-M045/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Manoj-M045/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manoj-M045/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Queue
