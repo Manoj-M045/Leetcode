@@ -77,6 +77,7 @@ My Leetcode Solutions
 | ------- |
 | [0263-ugly-number](https://github.com/Manoj-M045/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manoj-M045/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Manoj-M045/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manoj-M045/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Manoj-M045/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Manoj-M045/Leetcode/tree/master/0507-perfect-number) |
@@ -190,6 +191,7 @@ My Leetcode Solutions
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Manoj-M045/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manoj-M045/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Manoj-M045/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
