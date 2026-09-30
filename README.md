@@ -22,6 +22,7 @@ My Leetcode Solutions
 | [0414-third-maximum-number](https://github.com/Manoj-M045/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manoj-M045/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Manoj-M045/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Manoj-M045/Leetcode/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Manoj-M045/Leetcode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manoj-M045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -280,4 +281,8 @@ My Leetcode Solutions
 | [0100-same-tree](https://github.com/Manoj-M045/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Manoj-M045/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Manoj-M045/Leetcode/tree/master/0226-invert-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Manoj-M045/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
