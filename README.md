@@ -87,6 +87,7 @@ My Leetcode Solutions
 | [0509-fibonacci-number](https://github.com/Manoj-M045/Leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manoj-M045/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj-M045/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/Manoj-M045/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/Manoj-M045/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manoj-M045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
@@ -180,6 +181,7 @@ My Leetcode Solutions
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Manoj-M045/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Manoj-M045/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/Manoj-M045/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Pigeonhole Principle
 |  |
 | ------- |
