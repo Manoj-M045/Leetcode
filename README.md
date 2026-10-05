@@ -37,6 +37,7 @@ My Leetcode Solutions
 | [1550-three-consecutive-odds](https://github.com/Manoj-M045/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/Manoj-M045/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Manoj-M045/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ My Leetcode Solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manoj-M045/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manoj-M045/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Manoj-M045/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Manoj-M045/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Manoj-M045/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manoj-M045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
