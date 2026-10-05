@@ -34,6 +34,7 @@ My Leetcode Solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Manoj-M045/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Manoj-M045/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1550-three-consecutive-odds](https://github.com/Manoj-M045/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/Manoj-M045/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
