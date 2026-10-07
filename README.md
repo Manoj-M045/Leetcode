@@ -57,6 +57,7 @@ My Leetcode Solutions
 | [0560-subarray-sum-equals-k](https://github.com/Manoj-M045/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manoj-M045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Manoj-M045/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -116,6 +117,7 @@ My Leetcode Solutions
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manoj-M045/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Manoj-M045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Manoj-M045/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2129-capitalize-the-title](https://github.com/Manoj-M045/Leetcode/tree/master/2129-capitalize-the-title) |
 ## Two Pointers
 |  |
@@ -156,6 +158,7 @@ My Leetcode Solutions
 | [0169-majority-element](https://github.com/Manoj-M045/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Manoj-M045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Manoj-M045/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Greedy
 |  |
 | ------- |
