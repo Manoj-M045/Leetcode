@@ -40,6 +40,7 @@ My Leetcode Solutions
 | [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Manoj-M045/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Manoj-M045/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manoj-M045/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ My Leetcode Solutions
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manoj-M045/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manoj-M045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
