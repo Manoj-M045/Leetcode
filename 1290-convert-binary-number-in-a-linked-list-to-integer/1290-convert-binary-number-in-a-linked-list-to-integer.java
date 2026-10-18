@@ -10,19 +10,19 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        int i=0,sum=0,len=0;
-        ListNode tptr=head;
-        while(tptr!=null)
-        {
-            len++;
-            tptr=tptr.next;
+        ListNode temp=head;
+        int c=0,sum=0;
+        int power;
+        while(temp!=null){
+            temp=temp.next;
+            c++;
         }
-        tptr=head;
-        while(tptr!=null)
-        {
-           sum=sum+tptr.val*(int)Math.pow(2,len-1-i);
-           tptr=tptr.next;
-           i++;
+        ListNode curr=head;
+        power=c-1;
+        while(curr!=null){
+            sum=sum+(curr.val*(int)Math.pow(2,power));
+            power--;
+            curr=curr.next;
         }
         return sum;
         
