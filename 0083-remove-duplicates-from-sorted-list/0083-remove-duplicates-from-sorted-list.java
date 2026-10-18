@@ -10,26 +10,21 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        ListNode tptr=head;
-        LinkedList<Integer> numbers = new LinkedList<>();
-        while(tptr!=null)
-        {
-            if(!(numbers).contains(tptr.val))
-            {   
-                numbers.add(tptr.val);
-            }
-            tptr=tptr.next;
-
+        ListNode temp=head;
+        int c=0;
+        while(temp!=null){
+            temp=temp.next;
+            c++;
         }
-        Collections.sort(numbers);
-        ListNode dummy = new ListNode(0);
-        ListNode current = dummy;
-
-        for (int num : numbers) {
-            current.next = new ListNode(num);
-            current = current.next;
+        ListNode curr=head;
+        while(curr!=null &&  curr.next!=null){
+         if(curr.val==curr.next.val){
+            curr.next=curr.next.next;
+         }
+         else{
+            curr=curr.next;
+         }
         }
-        return dummy.next;
-        
+        return head;
     }
 }
