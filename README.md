@@ -39,6 +39,7 @@ My Leetcode Solutions
 | [1732-find-the-highest-altitude](https://github.com/Manoj-M045/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Manoj-M045/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manoj-M045/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Manoj-M045/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manoj-M045/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
@@ -79,6 +80,7 @@ My Leetcode Solutions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manoj-M045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manoj-M045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Manoj-M045/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manoj-M045/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/Manoj-M045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -151,6 +153,7 @@ My Leetcode Solutions
 | [0441-arranging-coins](https://github.com/Manoj-M045/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Manoj-M045/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manoj-M045/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manoj-M045/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Queue
 |  |
 | ------- |
