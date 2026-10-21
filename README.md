@@ -110,6 +110,7 @@ My Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manoj-M045/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Manoj-M045/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Manoj-M045/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Manoj-M045/Leetcode/tree/master/0290-word-pattern) |
@@ -276,6 +277,7 @@ My Leetcode Solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manoj-M045/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manoj-M045/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manoj-M045/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manoj-M045/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -351,4 +353,8 @@ My Leetcode Solutions
 | [0595-big-countries](https://github.com/Manoj-M045/Leetcode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Manoj-M045/Leetcode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Manoj-M045/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manoj-M045/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
