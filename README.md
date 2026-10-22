@@ -122,6 +122,7 @@ My Leetcode Solutions
 | [0680-valid-palindrome-ii](https://github.com/Manoj-M045/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Manoj-M045/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/Manoj-M045/Leetcode/tree/master/0925-long-pressed-name) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manoj-M045/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Manoj-M045/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manoj-M045/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1816-truncate-sentence](https://github.com/Manoj-M045/Leetcode/tree/master/1816-truncate-sentence) |
@@ -283,6 +284,7 @@ My Leetcode Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/Manoj-M045/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Manoj-M045/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Manoj-M045/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manoj-M045/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Timsort
 |  |
 | ------- |
