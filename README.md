@@ -351,6 +351,7 @@ My Leetcode Solutions
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Manoj-M045/Leetcode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/Manoj-M045/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Manoj-M045/Leetcode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Manoj-M045/Leetcode/tree/master/1148-article-views-i) |
